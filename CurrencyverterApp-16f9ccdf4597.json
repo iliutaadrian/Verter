@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "currencyverterapp",
+  "private_key_id": "16f9ccdf4597780f22b95914c144bc5faca46d3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZfGK1UOc3I+dZ\nXhC+Md5JTlC9avHxadZqXttKjEgjzfdAkYbjRxciyqi7UUp4ICaHyj3wrzZayFH9\ns57/RF0CG+2s+Y9ZJANOvb9HTo1EgIW2DajGC+m1WCbX/zo802e5ReT/kGBsS03L\n0u1II0YPnz8v4UVLNTvfw3WmOQPKy3kFuXqe+B6nZOcbhxBN7WnuV5mGNHKODfXu\n9tV8mEyDOhfOSoeYIkNowdr4uU8/b2diMpPIy54o7wVWcHsgMdl66UcrDLqXE/FW\n/aCFOh2CrWJlMQQISb5Kq8orQFPYS9dtuyGdhJQj7gVDmMDRfpvzm4uKRAjzoRK8\n2hqQIY2JAgMBAAECggEAO4LSy8SIkEkNzCF2OWUR60M3yq0R6TpJxq+QF/UM5Gc+\nqfdoTpasWQPVafRTiU1a3btUeaCoIe1AqkhVUIpXXPVhcvyS4hR9pzU6uvteooj8\njZVtQkwONmYZsu8O84fxkPv0Lo5GJDvy3Lwp25xzVmD//E0LFgpKCO/GKKbfR8Um\nHrgoYv5cyojt8F1YBP+dYh6aNGZ0dP2Y0icIFG5F8BVl1oCjPu6rcpF6kP7U3Ahe\nq6ar4zGy/OYcbVD6yjka9DA/6yuWxDkZjaipXqnJ9gqBqUhbolOagUZoSpTjYt6V\nEFYAyE2/R6FfT4KmdxEX8HyU6dzjs2NF2YRPtsFVBQKBgQD/Tgw1oI4onll6n00L\nDoDnCj4Xzq/bcYfxjPKZow7rn9z3GsauBdiDrH7X9mmNsaSE28NOXQr+W+H0fntD\nZDa9AnMV4AIAgOXyz0aehLAZJ8uGOk88A+DYNr0gMCP0xw5PzvHJNnqdex9X7hTe\nF8RfofIvaYGCKFDKLWq+G+0R1wKBgQDaE/oyqX5OeP74CXaHO/l18nJSx4osih1a\nVqB9EThCuB5yHXIYTbI5knqVdAJUHvSSub/rVL8YGuv04ua6CXDEJQxA6yz1yfN/\nPX6FEuUdCh6xC27dqcWplKPhrvpPkVkNuWFrRSfrThtO3ISOk4htxlrs41X3+sPp\nE073kasvnwKBgCEvvQiPiUsgYlM9N9+TEBB4VV/03wkwddJhVvu/pWXdjvSUB3WB\njwZ2urpJ7qibid43Tuj10UMFIJcOhelZsn/ZPKqARuJX3ww0A2MBrn5mnN8i3z/W\n5ThVzTnM6C+eXG7lYKqeKUwlQArHCPFht4YS4A9nsI0Bvpa5VqHFsYhbAoGAVyHO\nQLm57o6niOD3C7dpx7dz+CEj0wHoEnU0MGRV70pzV7LuKEm64QfmlJpCZ+vqWkl/\nJf65T19KUZDrEP++n5AR4kpUr2veL0OZrn/LLRwjASgJRuWTRVtPU1e/SVVQmIwu\nIVcDSR/vB0ZSbEkEJKAxKh729VqrNg/x6Da6iA8CgYEAharoUWaaT2YhDNtjEcS4\nsvxouLsDguAMEa8qgC08NEXSWB7WWI9h7EIPwcrlSW5YfT8ibVmfd5r6pnvNryIp\nUPV4GKrri+7xhSqixaSbPNL4Zz7JAhP0MwlMwhkjw0c9r+mqf2drN4+oreSeFF9k\nwDvBapdKZ+kNLLo0YNVD2ow=\n-----END PRIVATE KEY-----\n",
+  "client_email": "currencyverterappservice@currencyverterapp.iam.gserviceaccount.com",
+  "client_id": "108564719887177510250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/currencyverterappservice%40currencyverterapp.iam.gserviceaccount.com"
+}
